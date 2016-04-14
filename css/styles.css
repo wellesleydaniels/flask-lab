@@ -1,1 +1,17 @@
-h1 { color:#FF0000; }
+body {
+    margin : 220px;}
+
+
+h1 {
+    color:#FF0000;
+    text-transform : uppercase;
+    text-align : center;
+ }
+
+p {
+color : RED;}
+
+
+name {
+text-transform: uppercase;
+}
